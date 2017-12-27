@@ -1,5 +1,5 @@
 # R22-measurement
-Programa Arduino de IoT (Internet of Things): Medición de masa de Refrigerante R22 mediante un sensor de flujo. 
+Programa Arduino de IoT (Internet of Things): Medición de masa de Refrigerante R-22 mediante un sensor de flujo. 
 
 - - - - - - -
 ## Configurado para:
