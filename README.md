@@ -6,4 +6,5 @@ Configurado para:
 - La plataforma de análisis ThingSpeak (https://thingspeak.com/) para el envío y visualización de los datos.
 
 Extras:
-Tarjetas Adicionales Arduino IDE http://arduino.esp8266.com/stable/package_esp8266com_index.json
+- Tarjetas Adicionales Arduino IDE http://arduino.esp8266.com/stable/package_esp8266com_index.json.
+- Driver USB-Serial (dentro de la carpeta CH341SER).
