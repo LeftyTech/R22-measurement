@@ -14,7 +14,7 @@ const char* password = "xxxxxxxx";
 
 WiFiClient client;
 
-const int channelID = 00000000;  // Configuración del Canal ThingSpeak
+const int channelID = 12345678;  // Configuración del Canal ThingSpeak
 String writeAPIKey = "xxxxxxxx";  // Llave de Escritura ThingSpeak
 const char* server = "api.thingspeak.com";  // Dirección de la API ThingSpeak
 
