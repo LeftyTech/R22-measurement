@@ -1,6 +1,7 @@
 # R22-measurement
 Programa Arduino de IoT (Internet of Things): Medición de masa de Refrigerante R22 mediante un sensor de flujo. 
 
+- - - - - - -
 ## Configurado para:
 
 - El sensor de flujo de agua 1/2" Seeed Studio (http://wiki.seeed.cc/G1_and_2_inch_Water_Flow_Sensor/).
@@ -13,7 +14,7 @@ Programa Arduino de IoT (Internet of Things): Medición de masa de Refrigerante 
 - Tarjetas Adicionales Arduino IDE http://arduino.esp8266.com/stable/package_esp8266com_index.json.
 - Driver USB-Serial para windows 7 (dentro de la carpeta CH341SER).
 
-- - - - -
+- - - - - - -
 ## Referencias:
 
 - Arduino https://github.com/arduino/Arduino
