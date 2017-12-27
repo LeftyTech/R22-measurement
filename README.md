@@ -2,8 +2,8 @@
 Programa Arduino de IoT (Internet of Things): Medición de masa de Refrigerante R22 mediante un sensor de flujo. 
 
 Configurado para:
-- El Sensor de flujo de agua 1/2" Seeed Studio (http://wiki.seeed.cc/G1_and_2_inch_Water_Flow_Sensor/).
-- El módulo NodeMCU 1.0 ESP12-E (https://github.com/nodemcu/nodemcu-devkit-v1.0)
+- El sensor de flujo de agua 1/2" Seeed Studio (http://wiki.seeed.cc/G1_and_2_inch_Water_Flow_Sensor/).
+- El módulo NodeMCU 1.0 ESP 12-E (https://github.com/nodemcu/nodemcu-devkit-v1.0)
 - La plataforma de análisis ThingSpeak (https://thingspeak.com/) para el envío y visualización de los datos.
 
 Extras:
