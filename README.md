@@ -7,4 +7,4 @@ Configurado para:
 
 Extras:
 - Tarjetas Adicionales Arduino IDE http://arduino.esp8266.com/stable/package_esp8266com_index.json.
-- Driver USB-Serial (dentro de la carpeta CH341SER).
+- Driver USB-Serial para windows 7 (dentro de la carpeta CH341SER).
